@@ -1,0 +1,202 @@
+[kbplacer_plugin_action.py:79]: Plugin executed with KiCad version: 7.0.0
+[kbplacer_plugin_action.py:80]: Plugin executed with python version: '3.9.14 (main, Dec 23 2022, 23:36:19) [MSC v.1934 64 bit (AMD64)]'
+[kbplacer_dialog.py:512]: Language: en
+[kbplacer_plugin_action.py:96]: GUI state: {"switch_section": {"annotation": "SW{}", "layout_path": "C:\\Users\\Anonymous\\Downloads\\keyboard-layout.json", "x_distance": "19.05", "y_distance": "19.05"}, "switch_diodes_section": {"enable": true, "route_switches_with_diodes": true, "element_info": {"annotation_format": "D{}", "position_option": "Default", "position": {"relative_position": [5.08, 3.03], "orientation": 90.0, "side": "BACK"}, "template_path": ""}}, "additional_elements": {"elements_info": []}, "misc_section": {"route_rows_and_columns": true, "template_path": ""}}
+[key_placer.py:66]: Set key 1U distance: 19050000/19050000
+[key_placer.py:451]: Diode info: ElementInfo(annotation_format='D{}', position_option=<PositionOption.DEFAULT: 'Default'>, position=ElementPosition(relative_position=Point(x=5.08, y=3.03), orientation=90.0, side=<Side.BACK: True>), template_path='')
+[key_placer.py:493]: User layout: [{'backcolor': '#474747'}, [{'a': 7}, '', '', '', '', '', ''], ['', '', '', '', '', ''], ['', '', '', '', '', ''], ['', '', '', '', '', ''], [{'x': 3.75}, '', '', '']]
+[board_modifier.py:64]: Searching for SW1 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW1 footprint position: (34525000, 34525000)
+[board_modifier.py:64]: Searching for SW2 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW2 footprint position: (53575000, 34525000)
+[board_modifier.py:64]: Searching for SW3 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW3 footprint position: (72625000, 34525000)
+[board_modifier.py:64]: Searching for SW4 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW4 footprint position: (91675000, 34525000)
+[board_modifier.py:64]: Searching for SW5 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW5 footprint position: (110725000, 34525000)
+[board_modifier.py:64]: Searching for SW6 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW6 footprint position: (129775000, 34525000)
+[board_modifier.py:64]: Searching for SW7 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW7 footprint position: (34525000, 53575000)
+[board_modifier.py:64]: Searching for SW8 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW8 footprint position: (53575000, 53575000)
+[board_modifier.py:64]: Searching for SW9 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW9 footprint position: (72625000, 53575000)
+[board_modifier.py:64]: Searching for SW10 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW10 footprint position: (91675000, 53575000)
+[board_modifier.py:64]: Searching for SW11 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW11 footprint position: (110725000, 53575000)
+[board_modifier.py:64]: Searching for SW12 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW12 footprint position: (129775000, 53575000)
+[board_modifier.py:64]: Searching for SW13 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW13 footprint position: (34525000, 72625000)
+[board_modifier.py:64]: Searching for SW14 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW14 footprint position: (53575000, 72625000)
+[board_modifier.py:64]: Searching for SW15 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW15 footprint position: (72625000, 72625000)
+[board_modifier.py:64]: Searching for SW16 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW16 footprint position: (91675000, 72625000)
+[board_modifier.py:64]: Searching for SW17 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW17 footprint position: (110725000, 72625000)
+[board_modifier.py:64]: Searching for SW18 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW18 footprint position: (129775000, 72625000)
+[board_modifier.py:64]: Searching for SW19 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW19 footprint position: (34525000, 91675000)
+[board_modifier.py:64]: Searching for SW20 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW20 footprint position: (53575000, 91675000)
+[board_modifier.py:64]: Searching for SW21 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW21 footprint position: (72625000, 91675000)
+[board_modifier.py:64]: Searching for SW22 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW22 footprint position: (91675000, 91675000)
+[board_modifier.py:64]: Searching for SW23 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW23 footprint position: (110725000, 91675000)
+[board_modifier.py:64]: Searching for SW24 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW24 footprint position: (129775000, 91675000)
+[board_modifier.py:64]: Searching for SW25 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW25 footprint position: (105962500, 110725000)
+[board_modifier.py:64]: Searching for SW26 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW26 footprint position: (125012500, 110725000)
+[board_modifier.py:64]: Searching for SW27 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:84]: Setting SW27 footprint position: (144062500, 110725000)
+[board_modifier.py:97]: Getting SW1 footprint position: (34525000, 34525000)
+[board_modifier.py:64]: Searching for D1 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW2 footprint position: (53575000, 34525000)
+[board_modifier.py:64]: Searching for D2 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW3 footprint position: (72625000, 34525000)
+[board_modifier.py:64]: Searching for D3 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW4 footprint position: (91675000, 34525000)
+[board_modifier.py:64]: Searching for D4 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW5 footprint position: (110725000, 34525000)
+[board_modifier.py:64]: Searching for D5 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW6 footprint position: (129775000, 34525000)
+[board_modifier.py:64]: Searching for D6 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW7 footprint position: (34525000, 53575000)
+[board_modifier.py:64]: Searching for D7 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW8 footprint position: (53575000, 53575000)
+[board_modifier.py:64]: Searching for D8 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW9 footprint position: (72625000, 53575000)
+[board_modifier.py:64]: Searching for D9 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW10 footprint position: (91675000, 53575000)
+[board_modifier.py:64]: Searching for D10 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW11 footprint position: (110725000, 53575000)
+[board_modifier.py:64]: Searching for D11 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW12 footprint position: (129775000, 53575000)
+[board_modifier.py:64]: Searching for D12 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW13 footprint position: (34525000, 72625000)
+[board_modifier.py:64]: Searching for D13 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW14 footprint position: (53575000, 72625000)
+[board_modifier.py:64]: Searching for D14 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW15 footprint position: (72625000, 72625000)
+[board_modifier.py:64]: Searching for D15 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW16 footprint position: (91675000, 72625000)
+[board_modifier.py:64]: Searching for D16 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW17 footprint position: (110725000, 72625000)
+[board_modifier.py:64]: Searching for D17 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW18 footprint position: (129775000, 72625000)
+[board_modifier.py:64]: Searching for D18 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW19 footprint position: (34525000, 91675000)
+[board_modifier.py:64]: Searching for D19 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW20 footprint position: (53575000, 91675000)
+[board_modifier.py:64]: Searching for D20 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW21 footprint position: (72625000, 91675000)
+[board_modifier.py:64]: Searching for D21 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW22 footprint position: (91675000, 91675000)
+[board_modifier.py:64]: Searching for D22 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW23 footprint position: (110725000, 91675000)
+[board_modifier.py:64]: Searching for D23 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW24 footprint position: (129775000, 91675000)
+[board_modifier.py:64]: Searching for D24 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW25 footprint position: (105962500, 110725000)
+[board_modifier.py:64]: Searching for D25 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW26 footprint position: (125012500, 110725000)
+[board_modifier.py:64]: Searching for D26 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW27 footprint position: (144062500, 110725000)
+[board_modifier.py:64]: Searching for D27 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:97]: Getting SW28 footprint position: (305500000, 45000000)
+[board_modifier.py:64]: Searching for D28 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D1 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D2 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D3 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D4 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D5 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D6 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D7 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D8 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D9 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D10 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D11 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D12 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D13 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D14 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D15 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D16 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D17 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D18 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D19 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D20 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D21 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D22 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D23 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D24 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D25 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D26 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D27 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[board_modifier.py:64]: Searching for D28 footprint in C:/Users/Anonymous/Documents/Junon Keyboard/junon-kb.kicad_pcb
+[board_modifier.py:67]: Footprint not found
+[key_placer.py:162]: Removing dangling tracks

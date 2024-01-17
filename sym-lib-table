@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Junon's KB")(type "KiCad")(uri "${KIPRJMOD}/junon-kb.kicad_sym")(options "")(descr "Parts for Junon's Keyboard"))
+)
