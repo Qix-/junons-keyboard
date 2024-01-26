@@ -1,4 +1,4 @@
-.PHONY: all clean lint clippy fmt doc firmware firmare.run udeps
+.PHONY: all clean lint clippy fmt doc firmware firmware.run udeps
 
 ifdef DEBUG
 CARGO_MODE := debug
