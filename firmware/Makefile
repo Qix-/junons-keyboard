@@ -61,7 +61,7 @@ doc:
 	env cargo doc $(CARGO_FLAGS) -Zunstable-options -Zbuild-std=core,compiler_builtins -Zbuild-std-features=compiler-builtins-mem --open
 
 firmware.run: firmware
-	$(PROBE_RUN) $(PROBE_RUN_FLAGS) --speed 40000 --chip stm32g473cc target/thumbv7em-none-eabihf/$(CARGO_MODE)/junons-keyboard
+	$(PROBE_RUN) $(PROBE_RUN_FLAGS) --speed 40000 --chip stm32g473cct3 target/thumbv7em-none-eabihf/$(CARGO_MODE)/junons-keyboard
 
 firmware: target/$(CARGO_MODE)/junons-keyboard.bin
 .PHONY: target/thumbv7em-none-eabihf/$(CARGO_MODE)/junons-keyboard
